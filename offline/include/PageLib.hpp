@@ -1,10 +1,3 @@
- ///
- /// @file    PageLib.hpp
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-10 15:57:22
- ///
-
-
 #ifndef _WD_PAGELIB_H_
 #define _WD_PAGELIB_H_
 
