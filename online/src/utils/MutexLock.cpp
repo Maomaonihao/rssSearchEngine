@@ -1,9 +1,3 @@
- ///
- /// @file    MutexLock.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-02 11:12:01
- ///
-
 #include "MutexLock.h"
 
 namespace wd
