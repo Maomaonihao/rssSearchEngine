@@ -1,10 +1,3 @@
- ///
- /// @file    PageLib.cpp
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-10 16:55:10
- ///
-
-
 #include "Configuration.hpp"
 #include "PageLib.hpp"
 #include "DirScanner.hpp"
