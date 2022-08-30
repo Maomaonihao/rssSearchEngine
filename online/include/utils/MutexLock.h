@@ -1,10 +1,3 @@
- ///
- /// @file    MutexLock.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-02 11:07:13
- ///
-
-
 #ifndef _WD_MUTEXLOCK_H
 #define _WD_MUTEXLOCK_H
 
