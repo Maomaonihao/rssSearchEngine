@@ -1,9 +1,3 @@
- ///
- /// @file    Buffer.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-02 11:31:01
- ///
-
 #include "Buffer.h"
 
 namespace wd
@@ -29,8 +23,8 @@ bool Buffer::empty()
 	  
 void Buffer::push(Task task)
 {
-	MutexLockGuard guard(mutex_);//¾Ö²¿¶ÔÏó
-	while(full())//Ê¹ÓÃwhileÊÇÎªÁË±»Òì³£»½ÐÑ
+	MutexLockGuard guard(mutex_);//å±€éƒ¨å¯¹è±¡
+	while(full())//ä½¿ç”¨whileæ˜¯ä¸ºäº†è¢«å¼‚å¸¸å”¤é†’
 	{
 		notFull_.wait();
 	}
