@@ -1,9 +1,3 @@
- ///
- /// @file    test_offline.cpp
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-12 11:21:17
- ///
-
 #include "GlobalDefine.hpp"
 #include "Configuration.hpp"
 #include "DirScanner.hpp"
