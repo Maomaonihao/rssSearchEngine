@@ -1,9 +1,3 @@
- ///
- /// @file    RssReader.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-08-30 14:09:14
- ///
-
 #include "RssReader.hpp"
  
 #include <iostream>
