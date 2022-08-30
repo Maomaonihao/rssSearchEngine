@@ -1,10 +1,3 @@
- ///
- /// @file    Condition.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-02 11:20:32
- ///
-
-
 #include "Condition.h"
 #include "MutexLock.h"
 
