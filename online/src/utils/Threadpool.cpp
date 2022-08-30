@@ -1,9 +1,3 @@
- ///
- /// @file    Threadpool.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2015-11-03 15:53:35
- ///
-
 #include "Threadpool.h"
 #include "Thread.h"
 #include <stdio.h>
