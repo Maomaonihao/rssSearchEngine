@@ -1,9 +1,3 @@
- ///
- /// @file    RssReader.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-08-30 11:06:54
- ///
- 
 #ifndef __WANGDAO_RSSREADER_H__
 #define __WANGDAO_RSSREADER_H__
 
